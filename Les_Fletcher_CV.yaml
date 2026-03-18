@@ -351,9 +351,9 @@ settings:
     design:
     locale:
     typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
-    pdf_path: output/NAME_IN_SNAKE_CASE_CV.pdf
+    pdf_path: docs/NAME_IN_SNAKE_CASE_CV.pdf
     markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
-    html_path: output/index.html
+    html_path: docs/index.html
     png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
     dont_generate_markdown: false
     dont_generate_html: false
