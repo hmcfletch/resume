@@ -2,7 +2,7 @@
 
 ## Render
 
-Install (rendercv)[https://docs.rendercv.com/].
+Install [rendercv](https://docs.rendercv.com/).
 
 ```shell
 pip install "rendercv[full]"
